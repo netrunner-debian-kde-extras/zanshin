@@ -1,0 +1,21 @@
+Source: zanshin
+Section: kde
+Priority: optional
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploaders: Fathi Boudra <fabo@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               kdepimlibs5-dev,
+               libboost-dev,
+               pkg-kde-tools
+Standards-Version: 3.9.2
+Homepage: http://zanshin.kde.org/
+
+Package: zanshin
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: to-do list manager
+ Zanshin is a powerful yet simple application for managing your day to day
+ actions and notes. It helps you organize and reduce the cognitive pressure of
+ what one has to do in his job and personal life. You'll never forget anything
+ anymore, getting your mind like water.

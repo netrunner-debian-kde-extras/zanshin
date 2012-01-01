@@ -1,0 +1,5 @@
+zanshin (0.2.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #653943)
+
+ -- Fathi Boudra <fabo@debian.org>  Sun, 01 Jan 2012 20:48:41 +0200

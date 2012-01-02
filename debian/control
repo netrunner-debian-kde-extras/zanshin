@@ -5,7 +5,7 @@ Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Fathi Boudra <fabo@debian.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
-               kdepimlibs5-dev,
+               kdepimlibs5-dev (>= 4:4.6.0),
                libboost-dev,
                pkg-kde-tools
 Standards-Version: 3.9.2

@@ -1,6 +1,7 @@
 zanshin (0.2.0-2) UNRELEASED; urgency=low
 
   * Improve long description.
+  * Add versioned build dependency on kdepimlibs >= 4:4.6.0.
 
  -- Fathi Boudra <fabo@debian.org>  Mon, 02 Jan 2012 09:57:33 +0200
 

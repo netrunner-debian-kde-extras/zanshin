@@ -1,3 +1,9 @@
+zanshin (0.2.0-2) UNRELEASED; urgency=low
+
+  * 
+
+ -- Fathi Boudra <fabo@debian.org>  Mon, 02 Jan 2012 09:57:33 +0200
+
 zanshin (0.2.0-1) unstable; urgency=low
 
   * Initial release. (Closes: #653943)
